@@ -1,0 +1,8 @@
+me\kazzababe\rpg\sql\SQL.class
+me\kazzababe\rpg\quest\QuestManager.class
+me\kazzababe\rpg\Forged.class
+me\kazzababe\rpg\quest\Quest001PigKiller.class
+me\kazzababe\rpg\listener\BasicListeners.class
+me\kazzababe\rpg\listener\ForgedListeners.class
+me\kazzababe\rpg\quest\Quest.class
+me\kazzababe\rpg\player\ForgedPlayer.class
